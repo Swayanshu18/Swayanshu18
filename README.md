@@ -1,4 +1,4 @@
-<div style="background-image: url('https://github.com/Swayanshu18/Swayanshu18/blob/main/THOUGHTS.png'); background-size: cover; background-position: center; height: 300px;">
+<div style="background-image: url('https://ibb.co/wSJJNWp'); background-size: cover; background-position: center; height: 300px;">
     <!-- Your content goes here -->
 </div>
 
