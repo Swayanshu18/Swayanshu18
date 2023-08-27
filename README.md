@@ -8,15 +8,4 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
-<!-- Centered and styled heading -->
-<h2 align="center" style="color: #007bff;">About Me</h2>
-
-<!-- Styled list -->
-<ul style="list-style-type: square;">
-
-- Item 1
-- Item 2
-- Item 3
-
-</ul>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshu18)
