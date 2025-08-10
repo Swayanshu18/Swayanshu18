@@ -1,23 +1,66 @@
-<div style="background-image: url('https://ibb.co/wSJJNWp'); background-size: cover; background-position: center; height: 300px;">
-    <!-- Your content goes here -->
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://i.ibb.co/NNVf3Vt/banner-ai.jpg" alt="Profile Banner" width="100%" style="border-radius:15px;">
 </div>
 
-<!-- Center-aligned text with custom font and color -->
-<p align="center" style="font-family: 'Arial', sans-serif; color: #ff6600;">Hello, World! I'm Swayanshu, a passionate learner on a journey to explore the exciting realms of Artificial Intelligence, Machine Learning, OpenCV, and Deep Learning. I firmly believe that technology has the power to transform the world for the better, and I'm committed to using my skills to contribute positively to humanity. Additionally, I am deeply interested in Unity AR/VR game development.</p>
+---
 
-<!-- Horizontal line -->
-<hr/>
+<h1 align="center">Hi 👋, I'm Swayanshu</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | OpenCV Explorer | AR/VR Game Developer</h3>
 
-<!-- Image with rounded corners -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+<p align="center" style="font-size: 16px;">
+I'm a passionate learner on a journey through <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>OpenCV</b>, and <b>Deep Learning</b>.  
+I believe technology can transform the world, and I aim to contribute positively through my skills.  
+Also, I love experimenting with <b>Unity AR/VR game development</b>.
+</p>
 
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshu18)
+### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+</p>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=python&logoColor=white)
-<!-- Random Programming Quote -->
-[![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)](https://github.com/RandomCoderOrg/github-readme-quotes)
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Swayanshu18&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default" alt="Random Quote"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Swayanshu18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **“Keep learning, keep building, keep growing!”**
